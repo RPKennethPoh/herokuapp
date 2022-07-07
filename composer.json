@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Kenneth Poh",
+        "email": "20040654@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
